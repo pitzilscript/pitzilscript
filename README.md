@@ -1,6 +1,6 @@
-# hi, I'm Pitzil 👋
+# hi, i'm Pitzil 👋
 
-I'm a CS student at Azusa Pacific University (class of 2029) building at the intersection of ML/AI and open source — because I believe the best technology is the kind that gets shared.
+I'm a CS student at Azusa Pacific University (class of 2028) building at the intersection of systems, data, and social impact — because I believe the best technology is the kind that gets shared.
 
 My family in El Salvador doesn't have stable power or reliable internet. I grew up understanding the digital divide across generations, not as an abstraction. That's what drives what I build and who I build it for.
 
@@ -8,9 +8,13 @@ My family in El Salvador doesn't have stable power or reliable internet. I grew 
 
 ## what I'm working on
 
-**Nutrition Optimization Platform** — an EdTech system for a California school district that I helped bring from a state bill (SB 897) all the way to production. Three interfaces: a Director Command Center, a Student Kiosk, and a Kitchen Fulfillment Queue. LINQ API integration, real-time WebSocket sync, Vision AI for menu ingestion, FERPA-compliant. Built to be sold, not shelved.
+**[Scorecast](https://github.com/pitzilscript/scorecast-app)** — soccer match outcome predictor built for the 2026 FIFA World Cup. Poisson regression with Elo ratings, rolling form, and head-to-head history.
 
-**Vision AI failure modes** — documenting how Vision models perform (and fail) parsing real-world school district menus — PDFs, JPGs, inconsistent formatting. Working toward a write-up on failure taxonomy and mitigations from production data.
+**CVBuilder** — offline-first resume builder deployed on a LattePanda edge server in a Ugandan community school. Django REST API, PostgreSQL, React, Nginx. Zero internet dependency at runtime.
+
+**APU Endpoint Audit** — Python automation that ingests and analyzes compliance data across 700+ macOS devices managed through Jamf Pro.
+
+**Nutrition Optimization Platform** — EdTech system for a California school district that started as a state bill (SB 897) and went to production. LINQ API integration, real-time WebSocket sync, Vision AI for menu ingestion, FERPA-compliant.
 
 ---
 
@@ -18,17 +22,18 @@ My family in El Salvador doesn't have stable power or reliable internet. I grew 
 
 - 🇺🇸🇲🇽🇸🇻 US / Mexican / Salvadoran
 - Testified before the California Senate and Assembly Education Committees on school nutrition policy (SB 897)
-- Interned with Watoto, Intl. in Uganda — built a Django + PostgreSQL web app on a LattePanda edge device for communities without reliable internet
+- Systems & Intelligence Intern at the International Youth Alliance for Peace (Sri Lanka)
+- Software Engineering Intern at Watoto, Intl. (Uganda)
 - Junior Sysadmin at APU managing 700+ macOS endpoints via Jamf Pro
+- Data Analyst Intern at Newegg, presented to C-Suite
 - Linux Foundation Inclusivity Scholar · OSSNA 2026
 - HITEC Scholar · Girl Scout Gold Award
-- Active in the CNCF community
 
 ---
 
 ## what's next
 
-My next technical focus is **Kubernetes** — specifically contributing to the security and infrastructure side of the ecosystem. I'm starting with the foundations: currently working through my YAML SkillCred via the Linux Foundation as a first step into the contributor pipeline.
+Getting deeper into Kubernetes and open source infrastructure. Currently working toward my YAML SkillCred via the Linux Foundation as a first step into the contributor pipeline.
 
 Open source is how I close the gap. The more I learn, the more I have to give back.
 
@@ -36,5 +41,5 @@ Open source is how I close the gap. The more I learn, the more I have to give ba
 
 ## find me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/pitzilscript)
+- 🌐 [LinkedIn](https://linkedin.com/in/pitzil)
 - 📬 pitzil.m.avilacastellanos@gmail.com
