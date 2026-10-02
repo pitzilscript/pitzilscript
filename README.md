@@ -1,45 +1,40 @@
-# hi, i'm Pitzil 👋
+# Hi, I'm Pitzil 👋
 
-I'm a CS student at Azusa Pacific University (class of 2028) building at the intersection of systems, data, and social impact — because I believe the best technology is the kind that gets shared.
+I'm a Computer Science major (Data Science minor) at Azusa Pacific University on a full-ride Trustees Scholarship. I build technology for people who are underserved by it, and I care most about shipping real systems for real organizations.
 
-My family in El Salvador doesn't have stable power or reliable internet. I grew up understanding the digital divide across generations, not as an abstraction. That's what drives what I build and who I build it for.
+🌐 Portfolio: [pitzil.dev](https://pitzil.dev)
+🗣️ Spanish (native), working on Catalan and French
+🎯 Heading toward an AI/ML-focused master's and humanitarian tech work with NGOs and UN-system organizations
 
----
+## What I'm working on
 
-## what I'm working on
+- **Hotspot** (senior capstone): a local activity and event discovery app with a swipe-deck interface for group decisions. I lead the team and own the recommendation-scoring engine, core schema, and launch strategy. PostgreSQL + PostGIS, Next.js.
+- **Bithiah's Family Services:** planning a real database system to replace the Google Sheets tracking at the foster-care and education-equity nonprofit I've volunteered with for about 13 years.
 
-**[Scorecast](https://github.com/pitzilscript/scorecast-app)** — soccer match outcome predictor built for the 2026 FIFA World Cup. Poisson regression with Elo ratings, rolling form, and head-to-head history.
+## Selected projects
 
-**CVBuilder** — offline-first resume builder deployed on a LattePanda edge server in a Ugandan community school. Django REST API, PostgreSQL, React, Nginx. Zero internet dependency at runtime.
+| Project | What it is | Stack |
+|---|---|---|
+| **CVBuilder** | Production offline CV builder for students in Uganda, running on an air-gapped local network | LattePanda, Django REST, React, PostgreSQL, Nginx, Gunicorn |
+| **Hotspot** | Event and place discovery with event ingestion from Start.gg, Eventbrite, and Ticketmaster | PostgreSQL, PostGIS, Next.js |
+| **IYAP Stakeholder Database** | Web-hosted stakeholder tracking for a humanitarian NGO | Django, PostgreSQL |
+| **Scorecast** | Full-stack ML app that predicts World Cup winners using Poisson regression on decades of soccer statistics | See [github.com/pitzilscript](https://github.com/pitzilscript) |
 
-**APU Endpoint Audit** — Python automation that ingests and analyzes compliance data across 700+ macOS devices managed through Jamf Pro.
+## Work
 
-**Nutrition Optimization Platform** — EdTech system for a California school district that started as a state bill (SB 897) and went to production. LINQ API integration, real-time WebSocket sync, Vision AI for menu ingestion, FERPA-compliant.
+- **Junior Systems Administrator, Azusa Pacific University.** Recruited into the role and promoted within two months. Built a Python audit system that analyzes data from 700+ devices to surface compliance patterns.
+- **Systems, Intelligence & Monitoring Intern, International Youth Alliance for Peace (IYAP), July to October 2026.** Global humanitarian NGO. Partnership and stakeholder mapping and discovery interviews with NGO partners across South Asia and Africa, and built the PostgreSQL/Django stakeholder database.
+- **District of Choice Student Testifying Witness.** Testified before the California State Senate and Assembly Education Committees in support of SB 897, which removes barriers to education for low-income students.
 
----
+## Tech
 
-## background
+- **Languages:** Python, JavaScript, TypeScript, Java, C
+- **Frameworks and backend:** Django, Django REST Framework, REST APIs, React, Next.js
+- **Databases:** PostgreSQL, PostGIS, MySQL
+- **Tools:** Git, Bash, Linux, Nginx, Gunicorn
+- **Markup:** HTML, CSS
+- **Also:** edge hardware and air-gapped deployments, Python-based data analysis
 
-- 🇺🇸🇲🇽🇸🇻 US / Mexican / Salvadoran
-- Testified before the California Senate and Assembly Education Committees on school nutrition policy (SB 897)
-- Systems & Intelligence Intern at the International Youth Alliance for Peace (Sri Lanka)
-- Software Engineering Intern at Watoto, Intl. (Uganda)
-- Junior Sysadmin at APU managing 700+ macOS endpoints via Jamf Pro
-- Data Analyst Intern at Newegg, presented to C-Suite
-- Linux Foundation Inclusivity Scholar · OSSNA 2026
-- HITEC Scholar · Girl Scout Gold Award
+## Writing
 
----
-
-## what's next
-
-Getting deeper into Kubernetes and open source infrastructure. Currently working toward my YAML SkillCred via the Linux Foundation as a first step into the contributor pipeline.
-
-Open source is how I close the gap. The more I learn, the more I have to give back.
-
----
-
-## find me
-
-- 🌐 [LinkedIn](https://linkedin.com/in/pitzil)
-- 📬 pitzil.m.avilacastellanos@gmail.com
+*Bridging The Great Divide: How Family Wealth Shapes Education in America* (IYAP Bloggers Collective), on how property-tax funding gaps shape school quality between wealthy and low-income districts.
