@@ -2,8 +2,8 @@
 
 I'm a Computer Science major (Data Science minor) at Azusa Pacific University on a full-ride Trustees Scholarship. I build technology for people who are underserved by it, and I care most about shipping real systems for real organizations.
 
-🌐 Portfolio: [pitzil.dev](https://pitzil.dev)
-🗣️ Spanish (native), working on and French
+🌐 Portfolio: [pitzil.dev](https://pitzil.dev)<br>
+🗣️ Spanish (native), working on and French<br>
 🎯 Heading toward an AI/ML-focused master's and humanitarian tech work with NGOs and UN-system organizations
 
 ## What I'm working on
