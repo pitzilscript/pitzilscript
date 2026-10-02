@@ -1,4 +1,4 @@
-# Hi, I'm Pitzil 👋
+# Hello, I'm Pitzil
 
 I'm a Computer Science major (Data Science minor) at Azusa Pacific University on a full-ride Trustees Scholarship. I build technology for people who are underserved by it, and I care most about shipping real systems for real organizations.
 
