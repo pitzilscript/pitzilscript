@@ -9,7 +9,7 @@ I'm a Computer Science major (Data Science minor) at Azusa Pacific University on
 ## What I'm working on
 
 - **Hotspot** (senior capstone): a local activity and event discovery app with a swipe-deck interface for group decisions. I lead the team and own the recommendation-scoring engine, core schema, and launch strategy. PostgreSQL + PostGIS, Next.js.
-- **Bithiah's Family Services:** planning a real database system to replace the Google Sheets tracking at the foster-care and education-equity nonprofit I've volunteered with for about 13 years.
+- **APU student organization (in progress):** building a student org to equip CS undergrads to be career-ready through hackathons, internship pipelines, and more.
 
 ## Selected projects
 
@@ -28,12 +28,11 @@ I'm a Computer Science major (Data Science minor) at Azusa Pacific University on
 
 ## Tech
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C
-- **Frameworks and backend:** Django, Django REST Framework, REST APIs, React, Next.js
-- **Databases:** PostgreSQL, PostGIS, MySQL
-- **Tools:** Git, Bash, Linux, Nginx, Gunicorn
+- **Languages:** Python, JavaScript, Java, C
+- **Frameworks and backend:** Django, REST APIs, React
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Bash, Linux
 - **Markup:** HTML, CSS
-- **Also:** edge hardware and air-gapped deployments, Python-based data analysis
 
 ## Writing
 
