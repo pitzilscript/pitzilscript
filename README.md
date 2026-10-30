@@ -18,7 +18,7 @@ I'm a Computer Science major (Data Science minor) at Azusa Pacific University on
 | **CVBuilder** | Production offline CV builder for students in Uganda, running on an air-gapped local network | LattePanda, Django REST, React, PostgreSQL, Nginx, Gunicorn |
 | **Hotspot** | Event and place discovery with event ingestion from Start.gg, Eventbrite, and Ticketmaster | PostgreSQL, PostGIS, Next.js |
 | **IYAP Stakeholder Database** | Web-hosted stakeholder tracking for a humanitarian NGO | Django, PostgreSQL |
-| **Scorecast** | Full-stack ML app that predicts World Cup winners using Poisson regression on decades of soccer statistics | See [github.com/pitzilscript](https://github.com/pitzilscript) |
+| **Scorecast** | Full-stack ML app that predicts World Cup winners using Poisson regression on decades of soccer statistics | See [(https://github.com/pitzilscript/scorecast-app)] |
 
 ## Work
 
